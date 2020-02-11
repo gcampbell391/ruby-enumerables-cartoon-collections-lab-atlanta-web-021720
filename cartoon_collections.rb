@@ -23,7 +23,6 @@ def find_the_cheese(array)
   if cheese_types.include?(x)
     return x 
   else 
-    return nil 
   end 
   }
   
