@@ -29,5 +29,4 @@ def find_the_cheese(array)
     return nil 
   else 
   end 
-  
 end
